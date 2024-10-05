@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "kQ14wjAxwKDu9qpUGT5EH7Uaw2yb6RH5wfevh5VYua0=",
+  "Hash": "hX2e6cNMv+qbHm5hkPe1xrF5TiMJ1FvYT8qYljNt7xI=",
   "Source": "taskangular.Server",
   "BasePath": "_content/taskangular.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\taskangular.client.esproj",
+      "Identity": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\taskangular.client.esproj",
       "Version": 2,
       "Source": "taskangular.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

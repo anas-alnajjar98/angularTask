@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\..\\taskangular.client",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.Server\\..\\taskangular.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

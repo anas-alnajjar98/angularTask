@@ -1,1 +1,2 @@
 C:\Users\Orange\Desktop\taskangular\taskangular.client\obj\Debug\taskangular.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\angularTask\taskangular\taskangular.client\obj\Debug\taskangular.client.esproj.CoreCompileInputs.cache

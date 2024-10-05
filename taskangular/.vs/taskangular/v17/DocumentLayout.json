@@ -1,106 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\taskangular\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\subscription\\subscription.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\subscription\\subscription.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\subscription\\subscription.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\subscription\\subscription.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\sup-service\\sup-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\service\\service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\service\\service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\service\\service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\sup-service\\sup-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\url.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\url.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\service\\service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\sup-service\\sup-service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\registration-user\\registration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\registration-user\\registration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\registration-user\\registration-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\registration-user\\registration-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\navbar\\navbar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\login-user\\login-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\login-user\\login-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\login-user\\login-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\login-user\\login-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78BE24A8-59A1-45D5-8902-D5683519AA7E}|taskangular.Server\\taskangular.Server.csproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78BE24A8-59A1-45D5-8902-D5683519AA7E}|taskangular.Server\\taskangular.Server.csproj|solutionrelative:taskangular.server\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78BE24A8-59A1-45D5-8902-D5683519AA7E}|taskangular.Server\\taskangular.Server.csproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78BE24A8-59A1-45D5-8902-D5683519AA7E}|taskangular.Server\\taskangular.Server.csproj|solutionrelative:taskangular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\Models\\MyDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:taskangular.Server\\Models\\MyDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78BE24A8-59A1-45D5-8902-D5683519AA7E}|taskangular.Server\\taskangular.Server.csproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.server\\taskangular.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{78BE24A8-59A1-45D5-8902-D5683519AA7E}|taskangular.Server\\taskangular.Server.csproj|solutionrelative:taskangular.server\\taskangular.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78BE24A8-59A1-45D5-8902-D5683519AA7E}|taskangular.Server\\taskangular.Server.csproj|c:\\users\\orange\\desktop\\taskangular\\taskangular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78BE24A8-59A1-45D5-8902-D5683519AA7E}|taskangular.Server\\taskangular.Server.csproj|solutionrelative:taskangular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\add-services\\add-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\add-services\\add-services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\add-services\\add-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\add-services\\add-services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|c:\\users\\orange\\desktop\\angulartask\\taskangular\\taskangular.client\\src\\app\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9B9C0EB0-65B5-4481-B6C0-7C418882B8BD}|taskangular.client\\taskangular.client.esproj|solutionrelative:taskangular.client\\src\\app\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,335 +114,352 @@
       "DocumentGroups": [
         {
           "DockedWidth": 155,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "sup-service.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.html",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\sup-service\\sup-service.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.html",
-              "RelativeToolTip": "taskangular.client\\src\\app\\sup-service\\sup-service.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T22:30:16.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "url.service.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\url.service.spec.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\url.service.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\url.service.spec.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\url.service.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T22:27:49.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "sup-service.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\sup-service\\sup-service.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\sup-service\\sup-service.component.ts",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T22:27:37.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "service.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.html",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\service\\service.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.html",
-              "RelativeToolTip": "taskangular.client\\src\\app\\service\\service.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T21:53:51.698Z",
+              "WhenOpened": "2024-10-05T18:57:37.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "service.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.spec.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\service\\service.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.spec.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\service\\service.component.spec.ts",
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\app.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T22:32:14.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "service.component.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.css",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\service\\service.component.css",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.css",
-              "RelativeToolTip": "taskangular.client\\src\\app\\service\\service.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-29T22:00:24.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "app.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.component.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.component.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\app.component.ts",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:38:16.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\app.module.ts",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:39:34.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "url.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\url.service.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\url.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\url.service.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\url.service.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:49:17.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "service.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\service\\service.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\service\\service.component.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\service\\service.component.ts",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:53:54.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "taskangular.client\\src\\app\\app.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T21:37:42.154Z",
+              "WhenOpened": "2024-10-05T18:57:51.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:38:57.233Z",
+              "WhenOpened": "2024-10-05T18:57:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "taskangular.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-05T18:57:35.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sub-service-deatails.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T18:57:02.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sub-service-deatails.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T18:56:30.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sup-service.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\sup-service\\sup-service.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\sup-service\\sup-service.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T18:56:23.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "app.component.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.component.css",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.component.css",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.component.css",
-              "RelativeToolTip": "taskangular.client\\src\\app\\app.component.css",
+              "Title": "sup-service.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.css",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\sup-service\\sup-service.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sup-service\\sup-service.component.css",
+              "RelativeToolTip": "taskangular.client\\src\\app\\sup-service\\sup-service.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-29T21:37:39.02Z",
+              "WhenOpened": "2024-10-05T18:56:02.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "navbar.component.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.css",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\navbar\\navbar.component.css",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.css",
-              "RelativeToolTip": "taskangular.client\\src\\app\\navbar\\navbar.component.css",
+              "DocumentIndex": 12,
+              "Title": "sub-service-deatails.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.css",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.css",
+              "RelativeToolTip": "taskangular.client\\src\\app\\sub-service-deatails\\sub-service-deatails.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-29T21:35:42.891Z",
+              "WhenOpened": "2024-10-05T18:55:58.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "subscription.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\subscription\\subscription.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\subscription\\subscription.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\subscription\\subscription.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\subscription\\subscription.component.ts",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T18:52:44.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "subscription.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\subscription\\subscription.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\subscription\\subscription.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\subscription\\subscription.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\subscription\\subscription.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T18:52:31.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "navbar.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.html",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\navbar\\navbar.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.html",
-              "RelativeToolTip": "taskangular.client\\src\\app\\navbar\\navbar.component.html",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAAA2AAAA",
+              "Title": "registration-user.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\registration-user\\registration-user.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\registration-user\\registration-user.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\registration-user\\registration-user.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\registration-user\\registration-user.component.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T18:50:18.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "registration-user.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\registration-user\\registration-user.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\registration-user\\registration-user.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\registration-user\\registration-user.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\registration-user\\registration-user.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T21:36:19.953Z",
+              "WhenOpened": "2024-10-05T18:49:38.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "app.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.component.spec.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\app.component.spec.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\app.component.spec.ts",
+              "Title": "navbar.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\navbar\\navbar.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\navbar\\navbar.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:39:29.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "navbar.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.spec.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\navbar\\navbar.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.spec.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\navbar\\navbar.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:37:24.616Z",
+              "WhenOpened": "2024-10-05T18:48:55.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "navbar.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\navbar\\navbar.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.ts",
-              "RelativeToolTip": "taskangular.client\\src\\app\\navbar\\navbar.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T18:48:50.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login-user.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\login-user\\login-user.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\login-user\\login-user.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\login-user\\login-user.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\login-user\\login-user.component.ts",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:37:27.292Z",
+              "WhenOpened": "2024-10-05T18:48:17.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\index.html",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\index.html",
-              "RelativeToolTip": "taskangular.client\\src\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAADSAAAA",
+              "Title": "login-user.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\login-user\\login-user.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\login-user\\login-user.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\login-user\\login-user.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\login-user\\login-user.component.html",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T21:36:52.538Z",
+              "WhenOpened": "2024-10-05T18:47:34.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "main.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\main.ts",
-              "RelativeDocumentMoniker": "taskangular.client\\src\\main.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.client\\src\\main.ts",
-              "RelativeToolTip": "taskangular.client\\src\\main.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "update-service.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T21:36:46.907Z",
+              "WhenOpened": "2024-10-05T18:45:22.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "taskangular.Server\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "taskangular.Server\\Controllers\\ServicesController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T21:23:20.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\Models\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "taskangular.Server\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\Models\\MyDbContext.cs",
-              "RelativeToolTip": "taskangular.Server\\Models\\MyDbContext.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAACUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T21:21:56.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "taskangular.Server.http",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\taskangular.Server.http",
-              "RelativeDocumentMoniker": "taskangular.Server\\taskangular.Server.http",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\taskangular.Server.http",
-              "RelativeToolTip": "taskangular.Server\\taskangular.Server.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-29T21:10:41.818Z",
+              "Title": "update-service.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\dashboard\\update-service\\update-service.component.html",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T18:45:10.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\Program.cs",
-              "RelativeDocumentMoniker": "taskangular.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\Program.cs",
-              "RelativeToolTip": "taskangular.Server\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAADAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T21:12:49.848Z",
+              "Title": "services-admin.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T18:44:36.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "services-admin.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\dashboard\\services-admin\\services-admin.component.html",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T18:44:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\dashboard\\dashboard.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\dashboard\\dashboard.component.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T18:43:39.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "add-services.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\add-services\\add-services.component.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\add-services\\add-services.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\add-services\\add-services.component.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\add-services\\add-services.component.ts",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T18:41:17.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "taskangular.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\taskangular\\taskangular.Server\\appsettings.json",
-              "RelativeToolTip": "taskangular.Server\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-29T21:10:44.113Z",
+              "Title": "add-services.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\add-services\\add-services.component.html",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\add-services\\add-services.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\add-services\\add-services.component.html",
+              "RelativeToolTip": "taskangular.client\\src\\app\\add-services\\add-services.component.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-05T18:40:29.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T18:32:40.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "url.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\url.service.ts",
+              "RelativeDocumentMoniker": "taskangular.client\\src\\app\\url.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angularTask\\taskangular\\taskangular.client\\src\\app\\url.service.ts",
+              "RelativeToolTip": "taskangular.client\\src\\app\\url.service.ts",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-05T18:26:33.837Z",
               "EditorCaption": ""
             }
           ]
